@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working with a ERP, managing all the production logistic and invoice of many industries<br>I'm currently learning what can make me better on programming<br>
+- 💼 **Full-Stack Developer** working daily with ERP systems, managing production logistics, inventory tracking, and work planning for multiple manufacturing industries across Italy.
+- 📚 **Self-taught & always learning** - Building personal projects like photo management apps and fuel tracking systems while constantly improving my skills.
+- 🚀 **Curious problem-solver** who thrives on new challenges - From fantasy football analytics to AI video generation workflows, I love exploring innovative ideas and modern development approaches.
+- 🌍 Based in Casamarciano, Campania (Italy) • Open to collaborations on web apps, cloud infrastructure, or sports data projects.
 
 
 ## 🌐 Socials:
